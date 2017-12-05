@@ -35,15 +35,11 @@
     <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2" />
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
+	
+	
+	
     <icon src="icon.png" />
 	
-	<splash src="splash.png" />
-	
-	 
-	 <preference name="SplashScreen" value="screen"/> 
-	 
-	  
-<preference name="SplashScreenDelay" value="5000"/>
 	
 	
     <platform name="android">
