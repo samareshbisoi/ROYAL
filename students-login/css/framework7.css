@@ -1430,7 +1430,7 @@ html.pixel-ratio-3 .toolbar:before {
 .page > .toolbar,
 .view > .toolbar,
 .views > .toolbar {
-  position: absolute;
+  
 }
 .subnavbar ~ .page-content {
   padding-top: 44px;
