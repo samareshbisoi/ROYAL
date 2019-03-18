@@ -1,5 +1,5 @@
-var BaseURL = "http://royalintra.com/phonegp/";
-var ImgURL = "http://royalintra.com/academic/images/"; //$amareshB#2020
+var BaseURL = "http://biroyal.fasterp.in/phonegp/";
+var ImgURL = "http://biroyal.fasterp.in/academic/images/"; 
 
 // attendance 
 //total days class - no. of absent and present
