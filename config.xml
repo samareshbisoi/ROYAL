@@ -14,7 +14,8 @@
     <preference name="DisallowOverscroll" value="true" />
 	
      <preference name="android-minSdkVersion" value="21" />
-    <preference name="android-targetSdkVersion" value="28" />
+	<preference name="android-targetSdkVersion" value="28" />
+    
 	
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
@@ -133,8 +134,6 @@
         <allow-intent href="itms-apps:*" />
 	     
     </platform>
-	
-	
 	
 
 	
